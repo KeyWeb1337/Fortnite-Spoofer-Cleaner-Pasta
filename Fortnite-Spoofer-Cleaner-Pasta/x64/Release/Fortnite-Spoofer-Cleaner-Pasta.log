@@ -1,0 +1,13 @@
+﻿  CConsole.cpp
+C:\Users\yanxm\Desktop\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta\CConsole.cpp(4,1): warning C4005: 'SWP_NOZORDER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4865): message : see previous definition of 'SWP_NOZORDER'
+C:\Users\yanxm\Desktop\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta\CConsole.cpp(110,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fortnite-Spoofer-Cleaner-Pasta.cpp
+C:\Users\yanxm\Desktop\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta.cpp(36,17): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\yanxm\Desktop\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta.cpp(37,17): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\yanxm\Desktop\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta\Fortnite-Spoofer-Cleaner-Pasta.cpp(38,17): warning C4129: 'E': unrecognized character escape sequence
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Fortnite-Spoofer-Cleaner-Pasta.vcxproj -> C:\Users\yanxm\Desktop\Fortnite-Spoofer-Cleaner-Pasta\x64\Release\Fortnite-Spoofer-Cleaner-Pasta.exe
